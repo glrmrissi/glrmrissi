@@ -1,4 +1,4 @@
-## i'm glrm, i from Brazil.
+## i'm glrm, i'm from Brazil.
 
 <div align="center">
   <a href="https://github.com/glrmrissi">
