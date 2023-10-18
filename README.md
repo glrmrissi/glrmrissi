@@ -1,18 +1,9 @@
-# Olá! :leaves:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49f190&height=120&section=header"/>
 
-### Meu nome é Guilherme Rissi      :raised_hand::dog::raised_back_of_hand:
-
-<div align="center">
-  <a href="https://github.com/glrmrissi">
-  <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=glrmrissi&layout=compact&langs_count=7&theme=dark"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49f190&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;Meu+é+Guilherme+Rissi;Eu+tenho+16+anos.;I'm+from+Brazil;)](https://git.io/typing-svg)
+ 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=glrmrissi&theme=android-dark&mode=weekly" />
 </div>
 
-## Estou aprendendo: :running_man:
-
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glrmrissi&bg_color=000000&color=49f18f&line=49f48f&point=323030&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
