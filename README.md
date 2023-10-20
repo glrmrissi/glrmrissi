@@ -4,15 +4,18 @@
 
 
  
-<div  align="center" style="margin-top: 100px;">
+<div  align="center" style="margin: 100px;">
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=glrmrissi&theme=android-dark&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=shadow_green&title_color=49f190&icon_color=49f190&text_color=49f190&bg_color=000&border_color=49f190"/>
 </div>
 <div>
  <div  style="display: flex; flex-direction: column;" align="center"; margin="100px">
+  
+![Design+sem+nome](https://github.com/glrmrissi/glrmrissi/assets/102769917/59401063-5efb-4fb9-a772-7b50ca61f8d5)
+
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49f190&size=35&center=true&vCenter=true&width=1000&lines=I+am+learning:;I+am+learning:)](https://git.io/typing-svg)
- 
+  
    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000&color=49f190"/>
    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=000&color=49f190"/>
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=000&color=49f190"/>
