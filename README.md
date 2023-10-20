@@ -27,7 +27,7 @@
     <a align="left" href="https://git.io/typing-svg">
         <img align="left"  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=Social+media:;" alt="Typing SVG">
    </a>
-<a href="https://www.linkedin.com/in/guilherme-rissi/" align="left" target="_blank"><img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guilherme-rissi/" width=60% align="left" target="_blank"><img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
 <br>
