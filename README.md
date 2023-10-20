@@ -12,7 +12,7 @@
 
 <img align="right" valign="center" src="https://github.com/glrmrissi/glrmrissi/assets/102769917/59401063-5efb-4fb9-a772-7b50ca61f8d5" alt="Imagem">
 
-<div align="left"  valign="center" style="justify-items: center; height: 100%;">
+<div align="left"  style="justify-items: center; height: 100%;">
     <a style="justify-items: center;" href="https://git.io/typing-svg">
         <img  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=I+am+learning:;I+am+learning:" alt="Typing SVG">
     </a>
@@ -23,11 +23,11 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
    <br>
 </div>
-<div align="left"  valign="center" style="justify-items: center; height: 100%;">
+<div align="left" style="justify-items: center; height: 100%;">
     <a style="justify-items: center;" href="https://git.io/typing-svg">
         <img  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=Social+media:;" alt="Typing SVG">
    </a>
-<a href="https://www.linkedin.com/in/guilherme-rissi/" align="left" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guilherme-rissi/" align="left" target="_blank"><img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
 <br>
