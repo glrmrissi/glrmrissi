@@ -24,8 +24,8 @@
    <br>
 </div>
 <div align="left" style="justify-items: center; height: 100%;">
-    <a style="justify-items: center;" href="https://git.io/typing-svg">
-        <img  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=Social+media:;" alt="Typing SVG">
+    <a align="left" href="https://git.io/typing-svg">
+        <img align="left"  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=Social+media:;" alt="Typing SVG">
    </a>
 <a href="https://www.linkedin.com/in/guilherme-rissi/" align="left" target="_blank"><img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
