@@ -12,9 +12,9 @@
 
 <img align="center" valign="center" src="https://github.com/glrmrissi/glrmrissi/assets/102769917/59401063-5efb-4fb9-a772-7b50ca61f8d5" alt="Imagem">
 
-<div align="left"  style="justify-items: center; height: 100%;">
-    <a style="justify-items: center;" href="https://git.io/typing-svg">
-        <img  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=I+am+learning:;I+am+learning:" alt="Typing SVG">
+<div align="center"  style="justify-items: center; height: 100%;">
+    <a align="center" style="justify-items: center;" href="https://git.io/typing-svg">
+        <img align="center"  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=I+am+learning:;I+am+learning:" alt="Typing SVG">
     </a>
     <br>
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
