@@ -5,12 +5,11 @@
 
  
 <div  align="center" style="margin: 100px;">
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=glrmrissi&theme=android-dark&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=shadow_green&title_color=49f190&icon_color=49f190&text_color=49f190&bg_color=000&border_color=49f190"/>
 </div>
 <br>
 
-<img align="center" valign="center" src="https://github.com/glrmrissi/glrmrissi/assets/102769917/59401063-5efb-4fb9-a772-7b50ca61f8d5" alt="Imagem">
+
 
 <div align="center"  style="justify-items: center; height: 100%;">
     <a align="center" style="justify-items: center;" href="https://git.io/typing-svg">
