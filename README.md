@@ -7,8 +7,6 @@
 </div>
 <br>
 
-
-
 <div align="center"  style="justify-items: center; height: 100%;">
     <a align="center" style="justify-items: center;" href="https://git.io/typing-svg">
         <img align="center"  width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=I+am+learning:;I+am+learning:" alt="Typing SVG">
