@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49f190&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49f190&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile+:D;My+name+is+Guilherme+Rissi;i+am+18+old.;I'm+from+Brazil;Make+yourself+at+home+<3)](https://git.io/typing-svg)
-
-
  
 <div  align="center" style="margin: 100px;">
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=shadow_green&title_color=49f190&icon_color=49f190&text_color=49f190&bg_color=000&border_color=49f190"/>
