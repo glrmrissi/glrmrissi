@@ -33,8 +33,16 @@
 <br>
 <br>
 
-<div  align="center" style="margin: 100px;">
-<img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=shadow_green&title_color=49f190&icon_color=49f190&text_color=49f190&bg_color=000&border_color=49f190"/>
+
+<div style="display: flex; flex-direction: column; margin: 100px;" align="center">
+    <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=shadow_green&title_color=49f190&icon_color=49f190&text_color=49f190&bg_color=000&border_color=49f190"/>
+</div>
+<br>
+<br>
+<div align="center" style="justify-items: center; height: 100%;">
+    <a href="https://www.linkedin.com/in/guilherme-rissi-b90382337/">
+        <img  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    </a>
 </div>
 <br>
 <br>
