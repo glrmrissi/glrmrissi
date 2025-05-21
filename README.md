@@ -1,3 +1,8 @@
+
+
+<img width=100% src="https://github.com/user-attachments/assets/1ae74bd2-fa16-46a7-9dda-7964283093cc"/>
+
+
 😊 Hello, I started studying programming two and a half years ago. I saw my sister programming and was fascinated by the idea of creating something with my own hands. Since then, I haven't stopped studying.
 
 <br>
@@ -50,13 +55,11 @@
 <br>
 
 <div style="display: flex; flex-direction: column; margin: 100px;" align="center">
-    <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&show_icons=true&theme=shadow_green&title_color=49f190&icon_color=49f190&text_color=49f190&bg_color=000&border_color=49f190"/>
+    <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&theme=midnight-purple&border_radius=3"/>
 </div>
+
 <br>
 <br>
 
-<div align="center">
-<br><p align="center">Visitors Count</br></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{glrmrissi}/count.svg" /></p> 
-<br></div>
+<img width=100% src="https://github.com/user-attachments/assets/dcdd50e8-206d-49fa-9e63-7c0074e07595"/>
 
