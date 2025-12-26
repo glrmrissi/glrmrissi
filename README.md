@@ -57,12 +57,5 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; margin: 100px;" align="center">
-    <img width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=glrmrissi&theme=midnight-purple&border_radius=3"/>
-</div>
-
-<br>
-<br>
-
 <img width=100% src="https://github.com/user-attachments/assets/dcdd50e8-206d-49fa-9e63-7c0074e07595"/>
 
