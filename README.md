@@ -1,11 +1,9 @@
-
-
 <img width=100% src="https://github.com/user-attachments/assets/1ae74bd2-fa16-46a7-9dda-7964283093cc"/>
 
 
-😊 Hello, I started studying programming 3 years ago. I saw my sister programming and was fascinated by the idea of creating something with my own hands. Since then, I haven't stopped studying.
-
-<br>
+<div align="center" style="font-size: 1.3rem;">
+<strong>🐱‍👓 My technical skills:</strong>
+</div>
 
 <div align="center" style="justify-items: center; height: 100%;">
     <a align="center" style="justify-items: center;" href="https://git.io/typing-svg">
@@ -42,16 +40,28 @@
 <br>
 <br>
 <div align="center">
+    <div align="center" style="font-size: 1.3rem; padding-bottom: 8px;">
+    <strong>
+        🎸 I'm listening:
+    </strong>
+    </div>
     
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hv5pafyrzd4p2mqf4zav5mapvq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 <div align="center">
-<p>My dogs: ❤️</p>
+    <div align="center" style="font-size: 1.3rem; padding-bottom: 8px;">
+        <strong>
+            🐱‍💻 My Pet's:
+        </strong>
+    </div>
     
 ![birusketaa](https://github.com/user-attachments/assets/a5591437-0fe2-4403-b96d-b648d6fc9246)
 ![belikaa](https://github.com/user-attachments/assets/14885454-f94a-4b26-bc77-546f1ab0d015)
 ![vakinhaa](https://github.com/user-attachments/assets/5dc1e0ff-4fc6-43d1-ae71-19be2b72ef1d)
+![arnoldo](https://github.com/user-attachments/assets/9d5e385b-f617-4aea-a62d-c3ed0e50cfb5)
+
+
 
 </div>
 
