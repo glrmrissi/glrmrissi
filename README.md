@@ -1,14 +1,19 @@
 <img width=100% src="https://github.com/user-attachments/assets/1ae74bd2-fa16-46a7-9dda-7964283093cc"/>
 
+<br>
+
+I really like programming, I’ve been programming since the ninth grade of high school. I started programming because of my sister’s influence; I kept annoying her until she kicked me out of her room.
+
+Anyway, I really like video games, programming, hardware, complex systems, computing, electronics, music, and other things.
+
+Currently, my main stack is Node.js, but I also understand how other languages and compilers work, such as C#. I don’t have a preferred programming language and I’m not interested in political topics.
+
 
 <div align="center" style="font-size: 1.3rem;">
 <strong>🐱‍👓 My technical skills:</strong>
 </div>
 
 <div align="center" style="justify-items: center; height: 100%;">
-    <a align="center" style="justify-items: center;" href="https://git.io/typing-svg">
-        <img align="center" width=60% src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=1000&lines=I+have+strong+knowledge+of:;I+have+strong+knowledge+of:" alt="Typing SVG">
-    </a>
     <br>
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -54,4 +59,3 @@
 <br>
 
 <img width=100% src="https://github.com/user-attachments/assets/dcdd50e8-206d-49fa-9e63-7c0074e07595"/>
-
