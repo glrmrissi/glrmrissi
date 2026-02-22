@@ -56,6 +56,10 @@ Currently, my main stack is Node.js, but I also understand how other languages a
 
 </div>
 
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=glrmrissi&style=for-the-badge&color=7e3acf" />
+</div>
+
 <br>
 
 <img width=100% src="https://github.com/user-attachments/assets/dcdd50e8-206d-49fa-9e63-7c0074e07595"/>
