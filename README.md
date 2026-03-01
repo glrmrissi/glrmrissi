@@ -41,15 +41,6 @@ Tools & DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
-<div align="center">
-    <div align="center" style="font-size: 1.3rem; padding-bottom: 8px;">
-    <strong>
-        🎸 I'm listening:
-    </strong>
-    </div>
-    
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hv5pafyrzd4p2mqf4zav5mapvq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 <div align="center">
     <div align="center" style="font-size: 1.3rem; padding-bottom: 8px;">
